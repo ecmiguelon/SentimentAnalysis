@@ -1,0 +1,20 @@
+Buenas noches compañeros
+
+Primero disculparme por la hora, aqui les dejo los detalles del evento. 
+
+1- Se les ha brindado acceso al one-drive el cual podran ingresar con sus correos registrados. 
+2- Segun el formulario todas las herramientas que han indicado en el formulario, están siendo aceptadas para que puedan usarlas dentro de tu presentacion. 
+3- Por el grupo de whsp deberan de dejar sus dudas con respecto a algun avance.
+
+4- El dataset que veran adjunto consta de lo siguiente : 
+	-  db_AGP_2019_sucesos.cvs : Hace referencia al detalle de la publicacion y las personas que 	comentaron. 
+	- postID_suceso.cvs                   : Hace referencia al ID de la publicacion y el suceso que hubo. 
+
+Precauciones : 
+- Se prohibe pasar el dataset a personas que no esten participando 
+- Se puede limpiar el dataset usando Excel. Pero esta prohibido el uso de Excel como visualizador. 
+
+Recuerden que sera medido : 
+- Presentacion del dashboard 
+- Indicadores descubiertos 
+- Tecnica de limpieza de datos.
